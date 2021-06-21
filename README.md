@@ -9,6 +9,7 @@ The goal of this competition is to identify public datasets used in research pap
 
 ### Download data
 Run the code below to download the data from kaggle
+
 ```kaggle competitions download -p "data/raw_data" mlb-player-digital-engagement-forecasting```
 
 ## Approach
